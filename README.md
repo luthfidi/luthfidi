@@ -1,4 +1,5 @@
 <h1 align="left">Hey you, I'm Luthfi Hadi</h1>
+<p align="center"><img width="90" height="90" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="mona loading default" /></p>
 <a href="https://github.com/luthfidi">
     <p align="left"><img src="https://komarev.com/ghpvc/?username=luthfidi&style=flat-square&color=blueviolet" alt="Profile view counter"/></p>
 </a>
