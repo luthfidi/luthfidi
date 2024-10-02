@@ -4,9 +4,8 @@
 </a>
 
  - 👩🏽‍💻 Jr Front-End Developer
- - 👩🏽‍🎓 Computer Scientist graduated by [IFCE](https://ifce.edu.br/)
- - 📺 I'm currently working at [Sistema Verdes Mares](https://redeglobo.globo.com/tvverdesmares/)
- - 💜 Besides technology, I love cats, dogs and potatoes
+ - 👩🏽‍🎓 Computer Science student at BINUS University
+   
 <div style="display: inline_block">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luthfidi&theme=dracula&show_icons=true&hide_border=true&count_private=true">
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=luthfidi&theme=dracula&hide_border=true">
