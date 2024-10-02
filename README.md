@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="left">Hey you, I'm Luthfi Hadi</h1>
+<a href="https://github.com/luthfidi">
+    <p align="left"><img src="https://komarev.com/ghpvc/?username=luthfidi&style=flat-square&color=blueviolet" alt="Profile view counter"/></p>
+</a>
 
-<!--
-**luthfidi/luthfidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 👩🏽‍💻 Jr Back-end Developer
+ - 👩🏽‍🎓 Computer Scientist graduated by [IFCE](https://ifce.edu.br/)
+ - 📺 I'm currently working at [Sistema Verdes Mares](https://redeglobo.globo.com/tvverdesmares/)
+ - 💜 Besides technology, I love cats, dogs and potatoes
+<div style="display: inline_block">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luthfidi&theme=dracula&show_icons=true&hide_border=true&count_private=true">
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=luthfidi&theme=dracula&hide_border=true">
+</div>
