@@ -1,6 +1,6 @@
 <h1>
     <a href="https://luthfidi.github.io/Luthfi-Portfolio-Website/index-en">
-     <img align="center" alt="Logo Luthfi" width="24px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhvNHU5ZXY2MzJudTA5d21mc2F1ZnQ5cDNod3o4b3g3eXdnb2Q5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ky4CxPTvUEZOQl5CHq/giphy.webp"></a>
+     <img align="center" alt="Logo Luthfi Hadi" width="24px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhvNHU5ZXY2MzJudTA5d21mc2F1ZnQ5cDNod3o4b3g3eXdnb2Q5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ky4CxPTvUEZOQl5CHq/giphy.webp"></a>
     <span>Luthfi Hadi</span>
     <img align="center" alt="Logo Luthfi Hadi" width="24px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhvNHU5ZXY2MzJudTA5d21mc2F1ZnQ5cDNod3o4b3g3eXdnb2Q5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ky4CxPTvUEZOQl5CHq/giphy.webp"></a>
 </h1>
