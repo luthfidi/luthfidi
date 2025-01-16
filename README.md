@@ -14,5 +14,5 @@
    
 <div style="display: inline_block">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luthfidi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=luthfidi&theme=tokyonight">
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=luthfidi&theme=tokyonight&hide_border=true">
 </div>
