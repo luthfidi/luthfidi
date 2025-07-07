@@ -13,6 +13,5 @@
  - 🏫 Computer Science student at BINUS University
    
 <div style="display: inline_block">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=luthfidi&theme=tokyonight&hide_border=true&count_private=true">
-    <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=luthfidi&theme=tokyonight&hide_border=true">
+    <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=luthfidi&theme=tokyonight&hide_border=true&card_height=170">
 </div>
