@@ -9,7 +9,7 @@
     <p align="left"><img src="https://komarev.com/ghpvc/?username=luthfidi&style=flat-square&color=blueviolet" alt="profile view counter"/></p>
 </a>
 
- - 🧑🏽‍💻 Jr Full Stack Developer
+ - 🧑🏽‍💻 Full Stack Developer
  - 🏫 Computer Science student at BINUS University
    
 <div style="display: inline_block">
