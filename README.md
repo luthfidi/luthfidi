@@ -10,7 +10,7 @@
 </a>
 
  - 🧑🏽‍💻 Full Stack Developer
- - 🏫 Computer Science Graduate at BINUS University
+ - 🏫 Bachelor of Computer Science, BINUS University
    
 <div style="display: inline_block">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luthfidi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
