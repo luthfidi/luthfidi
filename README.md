@@ -11,7 +11,7 @@
 <img src="https://i.giphy.com/Ssts7rvD7E01O.gif" width="400" height="259" alt="coding gif"/>
 </td>
 <td valign="top">
-
+<p>
 
 
 - 🧑🏽‍💻 Full Stack Developer
