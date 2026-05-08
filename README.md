@@ -11,6 +11,7 @@
 
  - 🧑🏽‍💻 Full Stack Developer
  - 🏫 Bachelor of Computer Science, BINUS University
+ - 🌐 Check my portfolio website: [bit.ly/luthfidi-portfolio](https://bit.ly/luthfidi-portfolio)
    
 <div style="display: inline_block">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luthfidi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
