@@ -16,7 +16,7 @@
 
 - 🧑🏽‍💻 Full Stack Developer
 - 🏫 Bachelor of Computer Science, BINUS University
-- 🌐 Check my portfolio website: [bit.ly/luthfidi-portfolio](https://bit.ly/luthfidi-portfolio)
+- 🌐 Check My Portfolio Website: [bit.ly/luthfidi-portfolio](https://bit.ly/luthfidi-portfolio)
 
 
 <div align="center">
